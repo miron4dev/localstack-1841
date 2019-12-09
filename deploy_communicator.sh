@@ -1,0 +1,1 @@
+./mvnw -f communicator/pom.xml spring-boot:run
